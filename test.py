@@ -6,7 +6,7 @@ import unittest
 
 class TestExample(unittest.TestCase):
     """
-        test classss ss    hello
+        test class  ss ss    hello
     """
 
     def test_always_true(self):
