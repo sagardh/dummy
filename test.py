@@ -1,3 +1,6 @@
+"""
+    Sample test file
+"""
 import unittest
 
 class TestExample(unittest.TestCase):
