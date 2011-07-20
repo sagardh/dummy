@@ -1,5 +1,5 @@
 """
-    Sample test file, script used now
+Sample test file, script used now
 """
 import unittest
 
