@@ -1,4 +1,4 @@
-""" Sample test file, script used now
+"""Test fail
 """
 
 import unittest
