@@ -1,6 +1,7 @@
 """Sample test file, script used now
 """
 import unittest
+
 class TestExample(unittest.TestCase):
 
     def test_always_true(self):
