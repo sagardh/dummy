@@ -1,6 +1,5 @@
 """Sample test file, script used now
 """
-
 import unittest
 
 class TestExample(unittest.TestCase):
