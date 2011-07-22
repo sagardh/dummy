@@ -1,7 +1,7 @@
 
 """ Test fail
 
-"""
+   """
 
 
 
@@ -15,7 +15,7 @@ class TestExample(unittest.TestCase):
     def test_always_true(self):
         self.assertEqual(1, 1)
 
-if s__name__ == '__main__':
+if __name__ == '__main__':
     unittest.main()
 
 
